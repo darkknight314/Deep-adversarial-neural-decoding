@@ -6,7 +6,9 @@ The aim of the paper is to reconstruct perceived stimuli(i.e. images in case of 
 
 # Details
 The project was undertaken as a part of the course BITS F312 and was completed under the supervision of Prof. Surekha Bhanot. It was implemented in PyTorch and this implementation only covers the transformation from the latent feature space to perceived stimuli using DCGANs due to unavailability of the fMRI dataset to public. PCA was implemented manually due to non-interoperability with other implementations in python. The PCA transformation matrix was calculated beforehand and stored as a checkpoint.
+
 To run download weights checkpoints folder from here : https://drive.google.com/open?id=1PJ2YMVBqbL253GCIVijgXkxyjKaWAvje
+
 The final presentation can be found here : https://github.com/darkknight314/Deep-adversarial-neural-decoding/wiki
 
 # Screenshots of final results
