@@ -13,7 +13,8 @@ https://drive.google.com/open?id=1PJ2YMVBqbL253GCIVijgXkxyjKaWAvje
 
 2) Download CelebA dataset(not needed to download entire) and store in train and test folder
 
-The final presentation can be found here :-
+The final presentation can be found here : 
 https://github.com/darkknight314/Deep-adversarial-neural-decoding/wiki
 
 # Screenshots of final results
+<img src="Results/Result_1.png">
