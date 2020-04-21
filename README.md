@@ -18,3 +18,6 @@ https://github.com/darkknight314/Deep-adversarial-neural-decoding/wiki
 
 # Screenshots of final results
 <img src="Result images/Result_1.png">
+<img src="Result images/Result_2.png">
+<img src="Result images/Result_3.png">
+<img src="Result images/Result_4.png">
