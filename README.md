@@ -17,4 +17,4 @@ The final presentation can be found here :
 https://github.com/darkknight314/Deep-adversarial-neural-decoding/wiki
 
 # Screenshots of final results
-<img src="Results/Result_1.png">
+<img src="Result images/Result_1.png">
